@@ -346,7 +346,7 @@ body {
     position: relative;
     z-index: 10;
     /*top: 50%;*/
-    top: 75%;
+    top: 70%;
     opacity: 0.9;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
