@@ -26,12 +26,12 @@
         font-size: 27px;
     }
     
-    .close-btn {
-    	width: 30px;
-    	height: 30px;
-        background: url(../images/icon/close_sm.png);
-        background-size: cover;
-    }
+    /*.close-btn {*/
+    	/*width: 30px;*/
+    	/*height: 30px;*/
+        /*background: url(../images/icon/close_sm.png);*/
+        /*background-size: cover;*/
+    /*}*/
     
     .image-container {
         height: 500px;
