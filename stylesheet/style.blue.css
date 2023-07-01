@@ -874,6 +874,10 @@ body {
     position: relative;
 }
 
+.skill-title {
+    min-height: 40px;
+}
+
 .skill span {
     color: #343333;
     font-size: 18px;
