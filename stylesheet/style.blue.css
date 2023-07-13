@@ -1332,6 +1332,23 @@ body {
     color: #00B6F9 !important;
 }
 
+/* services */
+.service-box {
+    width: 90%;
+    margin: 0 auto 20px;
+    background: #00b8f4;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.service-box h3 {
+    margin-top: 0;
+    color: #fff;
+}
+
+.service-box p {
+    color: #fff;
+}
 @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {
         -moz-transform: translateY(0);
